@@ -1,0 +1,98 @@
+
+.header{
+
+    background-color: #ffaaa5;
+    width:100%;
+    height: 100vh;
+}
+
+
+#designer{
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20%;
+    color:#fcf8f3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+}
+
+#developer{
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left: 50%;
+    color:#fcf8f3;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+}
+
+small{
+    padding-left: 45%;
+    font-size: 50px;
+    color:#698474;
+
+}
+
+nav .navbar-nav li a{
+    color: #fcf8f3 !important;
+    font-size: 20px;
+    }
+
+    nav .navbar-nav{
+        padding: 15px;
+    }
+
+.col{
+    text-align: center;
+    padding: 5%;
+   
+}
+
+.heading{
+
+    color:#698474;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 1000;
+    padding: 2%;
+
+}
+
+p{
+    font-family: 'Ubuntu', sans-serif;;
+    color:#aab9b1;
+    line-height: 1.5rem;
+    
+}
+
+.content{
+    padding: 7% 15%;
+}
+
+.hello{
+    color:black;
+}
+
+.footer{
+
+    background-color: #698474;
+    width: 100%;
+    height:30vh;
+    font-family: 'Ubuntu', sans-serif;;
+    color:#fcf8f3;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#fcf8f3;
+}
+
+a:hover{
+    color:#ffd3b6;
+    text-decoration: none;
+}
+
+.carousel{
+    background-color: #ffaaa5;
+    width:100%;
+    height:100%;
+}
